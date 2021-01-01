@@ -1,0 +1,70 @@
+<shapes name="mxgraph.ibm2mondrian.weather">
+<shape aspect="variable" h="32" name="uv-index-alt" strokewidth="inherit" w="32">
+    <connections/>
+    <foreground>
+        <path>
+            <move x="13" y="30"/>
+            <line x="9" y="30"/>
+            <arc large-arc-flag="0" rx="2.003" ry="2.003" sweep-flag="1" x="7" x-axis-rotation="0" y="28"/>
+            <line x="7" y="20"/>
+            <line x="9" y="20"/>
+            <line x="9" y="28"/>
+            <line x="13" y="28"/>
+            <line x="13" y="20"/>
+            <line x="15" y="20"/>
+            <line x="15" y="28"/>
+            <arc large-arc-flag="0" rx="2.003" ry="2.003" sweep-flag="1" x="13" x-axis-rotation="0" y="30"/>
+            <close/>
+        </path>
+        <fillstroke/>
+        <path>
+            <move x="25" y="20"/>
+            <line x="23.25" y="20"/>
+            <line x="21" y="29.031"/>
+            <line x="18.792" y="20"/>
+            <line x="17" y="20"/>
+            <line x="19.5" y="30"/>
+            <line x="22.5" y="30"/>
+            <line x="25" y="20"/>
+            <close/>
+        </path>
+        <fillstroke/>
+        <rect h="5" w="2" x="15" y="2"/>
+        <fillstroke/>
+        <path>
+            <move x="21.668" y="6.854"/>
+            <line x="21.668" y="8.853"/>
+            <line x="26.626" y="8.853"/>
+            <line x="26.626" y="6.854"/>
+            <line x="21.668" y="6.854"/>
+            <close/>
+        </path>
+        <fillstroke/>
+        <rect h="2" w="5" x="25" y="15"/>
+        <fillstroke/>
+        <rect h="2" w="5" x="2" y="15"/>
+        <fillstroke/>
+        <path>
+            <move x="6.854" y="5.374"/>
+            <line x="6.854" y="10.332"/>
+            <line x="8.853" y="10.332"/>
+            <line x="8.853" y="5.374"/>
+            <line x="6.854" y="5.374"/>
+            <close/>
+        </path>
+        <fillstroke/>
+        <path>
+            <move x="22" y="17"/>
+            <line x="20" y="17"/>
+            <line x="20" y="16"/>
+            <arc large-arc-flag="0" rx="4" ry="4" sweep-flag="0" x="12" x-axis-rotation="0" y="16"/>
+            <line x="12" y="17"/>
+            <line x="10" y="17"/>
+            <line x="10" y="16"/>
+            <arc large-arc-flag="0" rx="6" ry="6" sweep-flag="1" x="22" x-axis-rotation="0" y="16"/>
+            <close/>
+        </path>
+        <fillstroke/>
+    </foreground>
+</shape>
+</shapes>
