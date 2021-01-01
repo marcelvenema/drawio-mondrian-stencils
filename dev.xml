@@ -137,7 +137,7 @@
         <fillstroke/>
     </foreground>
 </shape>
-<shape aspect="variable" h="32" name="face--mask" strokewidth="inherit" w="32">
+<shape aspect="variable" h="32" name="face-mask" strokewidth="inherit" w="32">
     <connections/>
     <foreground>
         <path>
