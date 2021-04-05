@@ -1,6 +1,6 @@
 {
     "Sidebars":{
-        "Base Shapes":{
+        "COVID":{
             "*": {
                 "Coronavirus": {"$DEFAULT_PROPERTIES": null, "icon": "dev.coronavirus", "format": "$LN_FORMAT_COLLAPSED"},
                 "Facemask": {"$DEFAULT_PROPERTIES": null, "icon": "dev.face-mask", "format": "$LN_FORMAT_COLLAPSED"}
